@@ -2,7 +2,7 @@ here are some foods
 
 eggs
 chicken
-beef beeferson
-porky pork
+beef
+porky pork pork
 turkey
 tofu
