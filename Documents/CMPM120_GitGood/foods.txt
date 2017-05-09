@@ -3,6 +3,7 @@ here are some foods
 eggs
 chicken
 beef
-porky pork pork
+pork
 turkey
-tofu
+tof
+AAAAA
